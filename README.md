@@ -106,8 +106,6 @@ To use this project, follow these steps:
 
 <br />
 
-🚀 **Application:** https://huggingface.co/spaces/lovieheartz/Bird-Sound-Classification-DL
-
 <br />
 
 **Contributing**
@@ -124,7 +122,7 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email : rehanfarooque51@gmail.com
+📧 Email :tanurimamukherjee2@gmail.com
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
