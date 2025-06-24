@@ -62,7 +62,7 @@ pip install tensorflow==2.12.0 --upgrade
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/lovieheartz/Bird-Sound-Classification-DL```
+1. Clone the repository: ```git clone https://github.com/tanurima-mukherjee/Bird-Sound-Classification-DeepLearning```
 2. Install the required packages: ```pip install -r requirements.txt```
 3. Run the Flask app: ```python app.py```
 4. Access the app in your browser at ```http://127.0.0.1:7860```
